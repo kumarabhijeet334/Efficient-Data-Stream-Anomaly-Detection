@@ -15,3 +15,6 @@ Ensure the algorithm is optimized for speed and efficiency, considering the cont
 
 Visualization
 Provide a simple real-time visualization of the data stream, highlighting detected anomalies for easy interpretation.
+
+Used the dataset of credit cards to recognize fraudulent credit card transactions. The dataset contains transactions made by credit cards in September 2013 by European cardholders.
+DATASET LINK: https://drive.google.com/drive/folders/1_nOeY7FkK7FuAe5b9myX49Rt3Yofyp94
